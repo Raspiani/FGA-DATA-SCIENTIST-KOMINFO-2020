@@ -1,1 +1,4 @@
 # FGA-DATA-SCIENTIST-KOMINFO-2020
+
+- Project UTS 
+- Project UAS
